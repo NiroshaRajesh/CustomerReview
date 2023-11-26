@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.CustomerReview" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+    <style name="Theme.CustomerReview" parent="Base.Theme.CustomerReview"/>
+</resources>
